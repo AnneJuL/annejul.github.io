@@ -23,7 +23,7 @@ repository               : "AnneJuL/annejul.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Anne Ju Laberge"
   pronouns         : "she/her"  
   bio              : "PhD Student in Integrative Biology at Michigan State University, studying hyena socio-spatial behavior and conservation."
