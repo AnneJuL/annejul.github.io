@@ -37,15 +37,6 @@
     "layout/sidebar"
 ;
 
-/* White background */
-body {
-  background-color: #ffffff !important;
-}
-
-.page__content, .sidebar, .sidebar.sticky {
-  background-color: #ffffff !important;
-}
-
 /* Remove circle from profile picture */
 .author__avatar img {
   border-radius: 10px !important;
