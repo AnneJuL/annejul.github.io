@@ -42,8 +42,38 @@
   border-radius: 10px !important;
   max-width: 200px;
 }
-/* Make sidebar not sticky */
+
+/* ===== SIDEBAR — wider, bigger font, no sticky scroll ===== */
 .sidebar.sticky {
   position: relative !important;
-  top: 0 !important;
+  top: auto !important;
+  overflow: visible !important;
+  max-height: none !important;
+  height: auto !important;
 }
+.sidebar {
+  overflow: visible !important;
+  max-height: none !important;
+  font-size: 1.05rem;
+}
+
+/* Make sidebar wider on larger screens */
+@media (min-width: 64em) {
+  .sidebar {
+    width: 280px !important;
+  }
+}
+
+@media (min-width: 80em) {
+  .sidebar {
+    width: 320px !important;
+  }
+}
+
+/* ===== FOOTER — only at the very bottom, never fixed ===== */
+.page__footer {
+  position: relative !important;
+  bottom: auto !important;
+  clear: both;
+}
+
