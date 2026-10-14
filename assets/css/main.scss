@@ -51,3 +51,8 @@ body {
   border-radius: 10px !important;
   max-width: 200px;
 }
+/* Make sidebar not sticky */
+.sidebar.sticky {
+  position: relative !important;
+  top: 0 !important;
+}
