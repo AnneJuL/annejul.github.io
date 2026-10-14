@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: images/background.png
+  overlay_image: images/background_jpeg.jpg
   overlay_filter: 0.1
 ---
 
