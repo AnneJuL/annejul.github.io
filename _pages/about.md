@@ -1,12 +1,14 @@
 ---
+layout: single
 permalink: /
 title: ""
 author_profile: true
-header:
-  overlay_image: /images/background.png
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: /images/background.png
+  overlay_filter: 0.1
 ---
 
 
