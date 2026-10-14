@@ -19,6 +19,13 @@ I graduated from my M. Sc. degree in August 2024 from Université de Sherbrooke 
 I am interested in animal behaviour, animal movement, and conservation. I am interested in questions on individual and population level. I am also very interested in unravelling the impact of human disturbances on wildlife.
 
 
+For more info on my project and research interests :​ [Research]()
+For more details on my experiences and publications  : 
+- [Resume]()
+- [Publications]()
+
+
+
 Beside Research
 ======
 
