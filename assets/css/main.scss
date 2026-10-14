@@ -39,9 +39,10 @@
 
 /* Remove circle from profile picture */
 .author__avatar img {
-  border-radius: 10px !important;
+  border-radius: 30px !important;
   max-width: 200px;
 }
+
 
 /* ===== SIDEBAR — wider, bigger font, no sticky scroll ===== */
 .sidebar.sticky {
@@ -51,16 +52,22 @@
   max-height: none !important;
   height: auto !important;
 }
+
 .sidebar {
   overflow: visible !important;
   max-height: none !important;
   font-size: 1.05rem;
 }
 
-/* Make sidebar wider on larger screens */
+/* Sidebar wider + content adjusts to match */
 @media (min-width: 64em) {
   .sidebar {
     width: 280px !important;
+    float: left !important;
+  }
+  .page {
+    float: right !important;
+    width: calc(100% - 300px) !important;
   }
 }
 
@@ -68,9 +75,12 @@
   .sidebar {
     width: 320px !important;
   }
+  .page {
+    width: calc(100% - 340px) !important;
+  }
 }
 
-/* ===== FOOTER — only at the very bottom, never fixed ===== */
+/* ===== FOOTER — only at the very bottom ===== */
 .page__footer {
   position: relative !important;
   bottom: auto !important;
