@@ -93,4 +93,10 @@
   background-position: center !important;
   min-height: 350px;
 }
+/* Hide title text in background header */
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__meta,
+.page__hero--overlay p {
+  display: none !important;
+}
 
