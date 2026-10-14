@@ -24,6 +24,7 @@ I am interested in animal behaviour, animal movement, and conservation. I am int
 
 
 For more info on my project and research interests :​ [Research]()
+
 For more details on my experiences and publications  : 
 - [Resume]()
 - [Publications]()
