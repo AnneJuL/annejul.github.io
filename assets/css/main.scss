@@ -86,4 +86,11 @@
   bottom: auto !important;
   clear: both;
 }
+/* ===== HOMEPAGE BACKGROUND IMAGE ===== */
+.page__hero--overlay {
+  background-image: url('/images/background_jpeg.jpg') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  min-height: 350px;
+}
 
