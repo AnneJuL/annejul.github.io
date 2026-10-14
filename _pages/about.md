@@ -2,6 +2,9 @@
 permalink: /
 title: ""
 author_profile: true
+header:
+  overlay_image: /images/background.png
+  overlay_filter: 0.3
 redirect_from: 
   - /about/
   - /about.html
