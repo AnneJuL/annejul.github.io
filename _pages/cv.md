@@ -125,9 +125,10 @@ Université de Sherbrooke
 
 ## Volunteering & Service
 
+**2026–present** — Co-chair, GWIS Undergraduate Mentoring Program, MSU  
 **2026–present** — Secretary, Graduate Student Organization, Integrative Biology Dept., MSU  
 **2026–present** — Member, EEB DEI Committee, MSU  
-**2021–present** — Founding member, *Collectif FéminiSciences* — gender equity in STEM  
+**2021–2024** — Founding member, *Collectif FéminiSciences* — gender equity in STEM  
 **2023–2024** — Organizing member, SWEEET symposium at CSEE 2024  
 **2023–2024** — Organizing member, QCBS annual congress 2024  
 **2023–2024** — Founding member, *REgroupement Pour la Recherche en Biologie* (REPRB)  
