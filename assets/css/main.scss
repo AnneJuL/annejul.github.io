@@ -1,4 +1,5 @@
 ---
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 ---
 
 /*
@@ -99,4 +100,10 @@
 .page__hero--overlay p {
   display: none !important;
 }
+
+/* Montserrat font everywhere */
+body, h1, h2, h3, h4, h5, h6, p, a, li, .author__name, .nav__list, .page__title {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
 
