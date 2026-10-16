@@ -13,7 +13,7 @@ I have many interests outside of science, which help me keep an open and creativ
 
 ## Collectif FéminiSciences
 
-During my master's degree, I co-founded **Collectif FéminiSciences**, a feminist collective for women and minority groups in STEM at Université de Sherbrooke.
+During my master's degree, I co-founded [**Collectif FéminiSciences**](https://www.facebook.com/p/Collectif-F%C3%A9minisciences-100090517414927/?locale=fr_FR), a feminist collective for women and minority groups in STEM at Université de Sherbrooke.
 
 Our mission is to raise awareness about the situation of women and people from minority groups in scientific fields, from a feminist and intersectional perspective. EDI values are at the core of everything we do. We aim to create a safe and supportive community, encourage graduate studies, and show that science is for everyone.
 
