@@ -9,8 +9,7 @@ Feel free to reach out — I'm always happy to discuss research, collaborations,
 
 ## Email
 
-📧 [laberge7@msu.edu](mailto:laberge7@msu.edu) *(preferred)*  
-📧 [Anne.Ju.Laberge@USherbrooke.ca](mailto:Anne.Ju.Laberge@USherbrooke.ca)
+📧 [laberge7@msu.edu](mailto:laberge7@msu.edu) 
 
 ## Find me online
 
