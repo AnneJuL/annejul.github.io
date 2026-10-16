@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Interests"
+title: "Interests Outside of Research"
 permalink: /outside/
 author_profile: true
 ---
